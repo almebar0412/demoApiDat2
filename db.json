@@ -5,7 +5,7 @@
       "items": [
         {
          "product": "Alimento para perro",
-          "quantity": 1,
+          "quantity": 5,
           "unitPrice": 15500,
           "image": "https://www.pedigree.com.mx/cdn-cgi/image/format=auto,q=90/sites/g/files/fnmzdf1501/files/2024-11/70646024931.png"
         }
@@ -15,10 +15,10 @@
       "sku": "54322",
       "items": [
         {
-         "product": "Cincinatti Gray",
-          "quantity": 90,
-          "unitPrice": 450,
-          "image": "https://arklam.es/wp-content/uploads/2021/07/cocina-gris-1024x717.jpg"
+         "product": "Suplemento alimenticio",
+          "quantity": 7,
+          "unitPrice": 13500,
+          "image": "https://ss201.liverpool.com.mx/xl/1156823666.jpg"
         }
       ]
     },
@@ -26,10 +26,10 @@
       "sku": "54323",
       "items": [
         {
-          "product": "Madera Revival",
-          "quantity": 150,
-          "unitPrice": 750,
-          "image": "https://decorceramica.vteximg.com.br/arquivos/ids/200301-800-800/EL04AL036.jpg?v=638180445562230000"
+          "product": "Cafe Mokate",
+          "quantity": 8,
+          "unitPrice": 5900,
+          "image": "https://bbb.com.uy/wp-content/uploads/2025/02/Pokerbeer_31473759_1.jpg"
         }
       ]
     },
@@ -37,10 +37,10 @@
       "sku": "54324",
       "items": [
         {
-        "product": "Retro",
-          "quantity": 8,
-          "unitPrice": 750,
-          "image": "https://apavisa.com/storage/antico-bano-con-suelo-decorativo-vintage-blanco-y-negro-1652187053KGVGG.jpg"
+        "product": "Carreola bebe",
+          "quantity": 3,
+          "unitPrice": 34000,
+          "image": "https://infanti.com.mx/cdn/shop/files/11_cabd1d7a-dbd8-4dc5-a8ab-76661b2914dc.jpg?v=1753202552"
         }
       ]
     }
