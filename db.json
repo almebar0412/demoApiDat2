@@ -5,8 +5,11 @@
       "items": [
         {
          "product": "Alimento para perro",
-          "quantity": 5,
+          "quantity": 18,
           "unitPrice": 15500,
+          "tienda1": 5,
+          "tienda2":8,
+          "tienda3":3,
           "image": "https://www.pedigree.com.mx/cdn-cgi/image/format=auto,q=90/sites/g/files/fnmzdf1501/files/2024-11/70646024931.png"
         }
       ]
@@ -16,8 +19,11 @@
       "items": [
         {
          "product": "Suplemento alimenticio",
-          "quantity": 7,
+          "quantity": 25,
           "unitPrice": 13500,
+          "tienda1": 5,
+          "tienda2":13,
+          "tienda3":7,
           "image": "https://ss201.liverpool.com.mx/xl/1156823666.jpg"
         }
       ]
@@ -27,8 +33,11 @@
       "items": [
         {
           "product": "Cafe Mokate",
-          "quantity": 8,
+          "quantity": 43,
           "unitPrice": 5900,
+          "tienda1": 15,
+          "tienda2":18,
+          "tienda3":10,
           "image": "https://bbb.com.uy/wp-content/uploads/2025/02/Pokerbeer_31473759_1.jpg"
         }
       ]
@@ -38,8 +47,11 @@
       "items": [
         {
         "product": "Carreola bebe",
-          "quantity": 3,
+          "quantity": 10,
           "unitPrice": 34000,
+          "tienda1": 3,
+          "tienda2":2,
+          "tienda3":5,
           "image": "https://infanti.com.mx/cdn/shop/files/11_cabd1d7a-dbd8-4dc5-a8ab-76661b2914dc.jpg?v=1753202552"
         }
       ]
