@@ -10,7 +10,7 @@
           "tienda1": 5,
           "tienda2":7,
           "tienda3":6,
-          "image": "https://ishop.gt/cdn/shop/files/IMG-15363188_550x.jpg?v=1730310003"
+          "image": "https://ishop.gt/products/macbook-pro-de-16-pulgadas-m4-pro-mx2t3e-a"
         }
       ]
     },
@@ -24,7 +24,7 @@
           "tienda1": 5,
           "tienda2":13,
           "tienda3":7,
-          "image": "https://www.costco.com.mx/medias/sys_master/products/h4b/hd7/188945428348958.jpg"
+          "image": "https://ishop.gt/products/2024-apple-watch-ultra-2-correa-ocean-mx4p3lz-a"
         }
       ]
     },
@@ -38,21 +38,21 @@
           "tienda1": 15,
           "tienda2":18,
           "tienda3":10,
-          "image": "https://ishop.gt/cdn/shop/files/IMG-14858606_550x.jpg?v=1726245892"
+          "image": "https://ishop.gt/products/airpods-max-mww43am-a"
         }
       ]
     },
     {
-      "sku": "Airpods Max",
+      "sku": "54324",
       "items": [
         {
-        "product": "Airpods Max",
+        "product": "Magic Mouse 2",
           "quantity": 10,
           "unitPrice": 5499,
           "tienda1": 3,
           "tienda2":2,
           "tienda3":5,
-          "image": "https://ishop.gt/cdn/shop/files/IMG-14858606_550x.jpg?v=1726245892"
+          "image": "https://ishop.gt/products/magic-mouse-2-mmmq3am-a"
         }
       ]
     }
