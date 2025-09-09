@@ -4,13 +4,13 @@
       "sku": "54321",
       "items": [
         {
-         "product": "Alimento para perro",
+         "product": "MacBook Pro de 16" M4 Max",
           "quantity": 18,
-          "unitPrice": 15500,
+          "unitPrice": 34999,
           "tienda1": 5,
           "tienda2":7,
           "tienda3":6,
-          "image": "https://tienda.pequenomundo.com/alimento-perro-adulto-18kg.html"
+          "image": "https://ishop.gt/cdn/shop/files/IMG-15363188_550x.jpg?v=1730310003"
         }
       ]
     },
@@ -18,13 +18,13 @@
       "sku": "54322",
       "items": [
         {
-         "product": "Suplemento",
+         "product": "Apple Watch Ultra 2",
           "quantity": 25,
-          "unitPrice": 13500,
+          "unitPrice": 7999,
           "tienda1": 5,
           "tienda2":13,
           "tienda3":7,
-          "image": "https://tienda.pequenomundo.com/amino-frutas-simply-350g-35-servidas.html"
+          "image": "https://www.costco.com.mx/medias/sys_master/products/h4b/hd7/188945428348958.jpg"
         }
       ]
     },
