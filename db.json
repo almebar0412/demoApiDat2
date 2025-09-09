@@ -32,27 +32,27 @@
       "sku": "54323",
       "items": [
         {
-          "product": "Cafe Mokate",
+          "product": "AirPods Max",
           "quantity": 43,
-          "unitPrice": 5900,
+          "unitPrice": 5499,
           "tienda1": 15,
           "tienda2":18,
           "tienda3":10,
-          "image": "https://tienda.pequenomundo.com/cafe-instantaneo-mokate-180g.html"
+          "image": "https://ishop.gt/cdn/shop/files/IMG-14858606_550x.jpg?v=1726245892"
         }
       ]
     },
     {
-      "sku": "Carro bebe",
+      "sku": "Airpods Max",
       "items": [
         {
-        "product": "Carro bebe",
+        "product": "Airpods Max",
           "quantity": 10,
-          "unitPrice": 34000,
+          "unitPrice": 5499,
           "tienda1": 3,
           "tienda2":2,
           "tienda3":5,
-          "image": "https://tienda.pequenomundo.com/coche-reclinable-bebe.html"
+          "image": "https://ishop.gt/cdn/shop/files/IMG-14858606_550x.jpg?v=1726245892"
         }
       ]
     }
